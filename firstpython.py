@@ -1,1 +1,3 @@
-adding a new file
+#Display the output
+
+Print ("New Python File")
